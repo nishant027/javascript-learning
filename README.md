@@ -1,6 +1,6 @@
 # JavaScript Learning
 
-Welcome to the JavaScript Learning Repository! This repository contains basic practice questions and their corresponding answers to help you learn and practice JavaScript programming. Whether you are a beginner or looking to refresh your JavaScript skills, this repository is designed to provide you with a hands-on learning experience.
+Welcome to the JavaScript Learning Repository! This repository contains basic practice questions and their corresponding answers to help you learn and practice JavaScript programming. Whether you are a beginner or looking to refresh your JavaScript skills, this repository is designed to provide you with a hands-on learning experience. This repository is created to understand the syntax and different methods in javascript.
 
 ## Table of Contents
 
